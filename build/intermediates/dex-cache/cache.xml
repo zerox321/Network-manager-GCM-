@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_b47c86035aceb0e0f429c6ffb1f59cc5b719619f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_df9c0f93728152d04a6dfd4fe541d3ec7f8773b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Cources\android\Bundle\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_4d69acdfdca90acdbdb07ea75ed7a89b2eebddad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_acfe057d18600e620cb3377e44bd1383c71db011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_a3637fd708ba03a0237153a29a337110193f029a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_245366eb43e49eeeabee910b7a8320a86060c548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_ebb7e8deb6e4d97969635490f42b7181f9fdc286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_d3d7744ff4224280ab99fd57e083c6f396c6a749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zerox\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\gson-2.3.1_acf04d1d8dc0d3bdf765ce43de7f269f64cebb48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\Cources\android\pro\android-network-manager-master\network-manager-start\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_317cdfcf80f36a2be0286c3777cc42f1f62984ce.jar" />
+    </item>
+
+</items>
